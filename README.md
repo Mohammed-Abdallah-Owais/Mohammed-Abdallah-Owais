@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Abdallah Owais
 
-🎯 **Full-Stack Developer | .NET Backend | React Frontend | Data Enthusiast**
+🎯 **Full-Stack Developer | .NET Backend  Data Enthusiast**
 
 I’m a senior Computer Science  **Helwan University** with hands-on experience in **.NET Core backend development** 
 I enjoy building **scalable web applications**
