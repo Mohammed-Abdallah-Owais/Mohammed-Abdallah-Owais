@@ -32,9 +32,12 @@ I enjoy building **scalable web applications**
 
 
 ## 🌍 Connect With Me
-Linkedin : ** [https://www.linkedin.com/in/mohamed-abdallah-owais-21b96a2a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  **
-📧 Email: **Mohammed.Abdallah.de@gmail.com**
 
----
+🔗 **LinkedIn:**  
+[https://www.linkedin.com/in/mohamed-abdallah-owais-21b96a2a0](https://www.linkedin.com/in/mohamed-abdallah-owais-21b96a2a0)
+
+📧 **Email:**  
+Mohammed.Abdallah.de@gmail.com
+
 
 ⭐️ *“Code, Learn, Build, Repeat.”*
