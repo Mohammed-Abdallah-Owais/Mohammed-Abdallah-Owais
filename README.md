@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Mohammed Abdallah Owais
+👋 Hi, I'm Mohammed Abdallah Owais
 
-🎯 **Full-Stack Developer | .NET Backend  Data Enthusiast**
+🎯 Full-Stack Developer | .NET Backend & Data Enthusiast
 
-I’m a Computer Science graduate from Helwan University, currently at ITI in the Professional Development track, specializing in CRM and BI-infused solutions. I have hands-on experience in .NET Core backend development and enjoy building scalable, high-performance web applications. I’m passionate about modern technologies and creating efficient, data-driven software solutions.**
+I’m a **Computer Science graduate from Helwan University**, currently at **ITI** in the **Professional Development track**, specializing in **CRM and BI-infused solutions**.  
+I have hands-on experience in **.NET Core backend development** and enjoy **building scalable, high-performance web applications**.  
+I’m passionate about **modern technologies** and creating **efficient, data-driven software solutions**.
+
 ---
 
 ## 🚀 Tech Stack
